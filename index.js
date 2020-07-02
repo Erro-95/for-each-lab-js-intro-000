@@ -8,7 +8,7 @@ function iterate(callback){
   const arr = ['apple', 'grape', 'orange']
 
   arr.forEach(callback => {
-    return arr
+  
   })
 
   return arr
