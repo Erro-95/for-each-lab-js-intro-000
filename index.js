@@ -10,3 +10,7 @@ function iterate(callback){
   arr.forEach(callback)
   return arr
 }
+
+function doToArray(array, callback){
+  array.foreach(callback)
+}
