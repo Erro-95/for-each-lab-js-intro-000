@@ -5,11 +5,8 @@ function iterativeLog(array){
 }
 
 function iterate(callback){
-  const arr = ['apple', 'grape', 'orange']
+  const arr = ['apple', 'grape', 'orange'];
 
-  arr.forEach(callback => {
-  
-  })
-
+  arr.forEach(callback)
   return arr
 }
